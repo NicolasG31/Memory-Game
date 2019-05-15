@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment02</string>
+    <string name="player1">Player 1: %1$d pts</string>
+    <string name="player2">Player 2: %1$d pts</string>
+    <string name="turnInfo">Player %1$d turn</string>
+    <string name="winInfo">Player %1$d won the game !</string>
+    <string name="drawInfo">Game over, draw ! </string>
+    <string name="buttonText">Reset</string>
+
+</resources>
